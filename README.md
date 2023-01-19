@@ -1,3 +1,3 @@
 # Projeto-Dio
 
-Desafio do proj eto Diocom Git e GitHub
+Desafio do projeto Diocom Git e GitHub
